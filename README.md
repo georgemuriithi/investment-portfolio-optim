@@ -39,6 +39,6 @@ LSTM model **parameters:**
 - `loss_function=MSELoss()`
 - `num_epochs=10000`
 
-*Resources leveraged from **Google Colab:** 2 CPUs, 1 GPU.*
+***GPU** is leveraged.*
 
 The performance of this portfolio is better compared to an equally weighted portfolio and a market capitalization weighted portfolio.
