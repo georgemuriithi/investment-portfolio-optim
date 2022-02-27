@@ -4,7 +4,7 @@
     <img alt="License" src="https://img.shields.io/github/license/georgemuriithi/investment-portfolio-optim.svg?color=blue&cachedrop">
 </a>
 
-An investment portfolio of stocks using LSTM stock price predictions and optimized weights. The performance of this portfolio is better compared to an equally weighted portfolio and a market capitalization weighted portfolio.
+Creating an investment portfolio of stocks using LSTM stock price predictions and optimized weights. The performance of this portfolio is better compared to an equally weighted portfolio and a market capitalization weighted portfolio.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/21691211/155658959-cfd8f6cf-2baa-4a6a-afa8-274e7eddb3fd.png">
