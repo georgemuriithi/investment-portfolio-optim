@@ -1,4 +1,4 @@
-# Investment Porfolio Optimization
+# Investment Portfolio Optimization
 
 <a href="https://github.com/georgemuriithi/investment-portfolio-optim/blob/main/LICENSE">
     <img alt="License" src="https://img.shields.io/github/license/georgemuriithi/investment-portfolio-optim.svg?color=blue&cachedrop">
