@@ -10,13 +10,13 @@ An investment portfolio of stocks is created using Long Short-Term Memory (LSTM)
   <img src="https://user-images.githubusercontent.com/21691211/155658959-cfd8f6cf-2baa-4a6a-afa8-274e7eddb3fd.png">
 </p>
 
-***Disclaimer:** The LSTM model cannot be used to predict stock prices in real life, and this project cannot help an investor make investment decisions in the stock market. This is because the stock market is highly unpredictable. Prediction models do not work. In this project, the validation phase is used to test the model's performance. The purpose of the project is to implement Univariate Time-Series Prediction using LSTM.*
+***Disclaimer:** The LSTM model cannot be used to predict stock prices in real life, and this project cannot help an investor make investment decisions in the stock market. This is because the stock market is highly unpredictable. In this project, the validation phase is used to test the model's performance. The purpose of the project is to implement Univariate Time-Series Prediction using LSTM.*
 
 ## Problem Description
-The task is to create an investment portfolio from stocks that maximizes overall return.
+The task is to create an investment portfolio of stocks that maximizes overall return.
 
 ### Data
-**Top 30 U.S. companies by market capitalization** are used. The start time is **2009-12-31** and the end time is **2021-12-31.** AbbVie (ABBV), Meta (FB) and Tesla, Inc. (TSLA) are excluded because they were listed on the stock market after 2009-12-31.
+**Top 30 U.S. companies by market capitalization** are used. The start time is **2009-12-31** and the end time is **2021-12-31.** AbbVie (ABBV), Meta (FB) and Tesla, Inc. (TSLA) are excluded because they were listed in the stock market after 2009-12-31.
 
 The csv files and model states can be accessed from the *data* folder.
 
